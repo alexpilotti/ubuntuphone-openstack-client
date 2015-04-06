@@ -1,0 +1,17 @@
+{
+    "name": "testapp2.username",
+    "description": "description of testapp2",
+    "architecture": "all",
+    "title": "testapp2",
+    "hooks": {
+        "app": {
+            "apparmor": "app.apparmor",
+            "desktop":  "app.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Firstname Surname <your@mail.com>",
+    "framework" : "ubuntu-sdk-14.10-qml"
+}
+
+
